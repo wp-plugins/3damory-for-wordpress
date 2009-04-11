@@ -6,14 +6,14 @@ Requires at least: 2.6
 Tested up to: 2.7
 Stable tag: 0.1
 
-3DArmory.com's Wordpress plugin enables any blogger to embed 3D Models in blogs. 
+3DArmory.com's Wordpress plugin enables any blogger to embed 3D Models in blogs. With the plugin, you can put a 3D Model of your World of Warcraft toon on your blog. It's as simple as entering realm, name and zone. 3DArmory is the Armory alternative for World of Warcraft with extended 3D Models and screenhot features.
 
 == Description ==
 
-3DArmory.com's Wordpress plugin enables any blogger to embed 3D Models in blogs. [Developed by](http://www.3darmory.com)
+3DArmory.com's Wordpress plugin enables any blogger to embed 3D Models in blogs. [Developed by 3DArmory.com](http://www.3darmory.com)
 
 = Demo  =
-To see demo check plugins [homepage](http://blog.3darmory.com/).
+To see demo check plugins [homepage](http://blog.3darmory.com/) or authors [blog](http://www.regularsexpressions.com/)..
 
 == Installation ==
 Check the online [Installation](http://3darmory.com/wordpress) instructions.
